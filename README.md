@@ -2,9 +2,9 @@
 
 Welcome,
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+This game was a Code Institute project, the game had a self assessment part where the user needed to figure out how to successfully convert the division answer into a whole number so that there was no remainder.  I was able to use the Math function that javascript has built in to round the answer, so 0-4 is rounded down and 5-9 is rounded up.
+This task had proven challenging and very rewarding when I figured out how to complete the task.
+Task Completed by Graham.
 
 ## Codeanywhere Reminders
 
