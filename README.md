@@ -2,8 +2,8 @@
 
 Welcome,
 
-This game was a Code Institute project, the game had a self assessment part where the user needed to figure out how to successfully convert the division answer into a whole number so that there was no remainder.  I was able to use the Math function that javascript has built in to round the answer, so 0-4 is rounded down and 5-9 is rounded up.
-This task had proven challenging and very rewarding when I figured out how to complete the task.
+This game was a Code Institute project, the game had a self assessment part where the user needed to figure out how to successfully convert the division answer into a whole number so that there was no remainder.  <br>I was able to use the Math function that javascript has built in to round the answer, so 0-4 is rounded down and 5-9 is rounded up.<br>
+This task had proven challenging and very rewarding when I figured out how to complete the task.<br>
 Task Completed by Graham.
 
 ## Codeanywhere Reminders
