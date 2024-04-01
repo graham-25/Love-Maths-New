@@ -79,9 +79,13 @@ function calculateCorrectAnswer() {
     } else if (operator === "x") {
         return[operand1 * operand2, "multiply"];
     } else if (operator === "/") {
-        return[operand1 / operand2, "division"];
+        let result = operand1 / operand2;
+        result = Math.round(result);
+        return[result, "division"];
     } else if (operator === "-") {
-        return[operand1 - operand2, "subtract"];
+        let result = operand1 - operand2;
+        result = Math.abs(result);
+        return[result, "subtract"];
     } else {
         alert(`unimplamented operator ${operator}`);
         throw `unimplamented operator ${operator}. aborting!`;
